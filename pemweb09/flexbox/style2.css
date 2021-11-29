@@ -1,0 +1,33 @@
+nav {
+    background-color: rgb(7, 68, 68);
+    width: 150px;
+    height: 650px;
+}
+body {
+    display: flex;
+}
+header {
+    background-color: rgb(102, 101, 33);
+    width: 900px;
+    height: 100px;
+}
+.contoh {
+    display: flex;
+}
+article {
+    background-color: rgb(71, 5, 71);
+    width: 600px;
+    height: 450px;
+    flex-grow: 1;
+}
+aside {
+    background-color: rgb(9, 18, 97);
+    width: 150px;
+    height: 450px;
+}
+footer {
+    background-color: rgb(4, 75, 4);
+    width: 900px;
+    height: 100px;
+    flex-grow: 1;
+}

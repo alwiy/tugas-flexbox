@@ -1,0 +1,46 @@
+.container {
+    background-color: white;
+    margin: 1em;
+    flex-wrap: wrap-reverse;
+    justify-content: center;
+    display: flex;
+}   
+.box1 {
+    width: 200px;
+    height: 100px;
+    padding: 10px;
+}
+.box2 {
+    width: 200px;
+    height: 100px;
+    padding: 10px;
+}
+.box3 {
+    width: 200px;
+    height: 100px;
+    padding: 10px;
+}
+.box4 {
+    width: 200px;
+    height: 100px;
+    padding: 10px;
+}
+.box5 {
+    width: 200px;
+    height: 100px;
+    padding: 10px;
+}
+.box6 {
+    width: 345px;
+    height: 100px;
+    padding: 10px;
+}
+.box7 {
+    width: 345px;
+    height: 100px;
+    padding: 10px;
+}.box8 {
+    width: 345px;
+    height: 100px;
+    padding: 10px;
+}
